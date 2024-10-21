@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://amadeflo.github.io/amadeflo.txt.gz
+Sitemap: https://amadeflo.github.io/app/amadeflo.txt.gz
+Sitemap: https://amadeflo.github.io/assets/amadeflo.txt.gz
+Sitemap: https://amadeflo.github.io/css/amadeflo.txt.gz
+Sitemap: https://amadeflo.github.io/includes/amadeflo.txt.gz
+Sitemap: https://amadeflo.github.io/item/amadeflo.txt.gz
+Sitemap: https://amadeflo.github.io/src/amadeflo.txt.gz
